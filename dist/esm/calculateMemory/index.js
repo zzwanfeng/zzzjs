@@ -1,4 +1,4 @@
-function _typeof(o) { "@babel/helpers - typeof"; return _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function (o) { return typeof o; } : function (o) { return o && "function" == typeof Symbol && o.constructor === Symbol && o !== Symbol.prototype ? "symbol" : typeof o; }, _typeof(o); }
+import _typeof from "@babel/runtime/helpers/esm/typeof";
 export default function calculateMemory(value) {
   var unit = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 'B';
   var bytes = 0;
