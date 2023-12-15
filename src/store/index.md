@@ -31,7 +31,7 @@ store.set('dooring', 'zzwanfeng', Date.now() + 1000, (status, key, value) => {
 });
 ```
 
-```tsx | pure
+```tsx
 /**
  * title: 打开控制台查看结果
  */

@@ -41,7 +41,6 @@
     ]
   },
   "devDependencies": {
-    "@testing-library/jest-dom": "^5.15.1",
     "@types/jest": "^27.0.3",
     "@types/lodash.clonedeep": "^4.5.6",
     "@types/lodash.difference": "^4.5.7",
@@ -56,9 +55,9 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.18.9",
-    "@types/qs": "^6.9.10",
     "lodash.clonedeep": "^4.5.0",
     "lodash.difference": "^4.5.0",
+    "nanoid": "^3.1.30",
     "qs": "^6.11.2"
   },
   "publishConfig": {
