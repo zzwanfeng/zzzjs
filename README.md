@@ -1,5 +1,7 @@
 # zzzjs
 
+整理和 diy 的一个 npm 包
+
 ## Getting Started
 
 Install dependencies,
